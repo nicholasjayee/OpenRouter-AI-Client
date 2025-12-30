@@ -1,0 +1,5 @@
+{
+  "name": "OpenRouter AI Client",
+  "description": "A sleek chat interface connecting to OpenRouter or OpenAI compatible APIs. Users provide their own credentials to start chatting.",
+  "requestFramePermissions": []
+}
